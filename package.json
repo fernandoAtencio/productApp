@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaztWeb/javascript-products-app-oop.git"
+    "url": "git+https://github.com/fernandoAtencio/productApp"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FaztWeb/javascript-products-app-oop/issues"
+    "url": "https://github.com/fernandoAtencio/productApp"
   },
-  "homepage": "https://github.com/FaztWeb/javascript-products-app-oop#readme",
+  "homepage": "https://github.com/fernandoAtencio/productApp",
   "dependencies": {
     "live-server": "^1.2.1"
   }
